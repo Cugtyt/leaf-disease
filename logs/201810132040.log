@@ -1,0 +1,37 @@
+[line:53] - DEBUG: criterion: CrossEntropyLoss
+[line:55] - DEBUG: optimizer: RMSprop
+[line:119] - DEBUG: 0 train loss: 1.1039305925369263 acc: 0.0625
+[line:119] - DEBUG: 0 train loss: 1.0258021354675293 acc: 0.4375
+[line:119] - DEBUG: 0 train loss: 0.9876976609230042 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 1.0733568668365479 acc: 0.46875
+[line:119] - DEBUG: 0 train loss: 1.0314826965332031 acc: 0.5
+[line:119] - DEBUG: 0 train loss: 1.0992457866668701 acc: 0.375
+[line:119] - DEBUG: 0 train loss: 0.9820572137832642 acc: 0.53125
+[line:119] - DEBUG: 0 train loss: 1.0082769393920898 acc: 0.53125
+[line:119] - DEBUG: 0 train loss: 1.0553011894226074 acc: 0.4375
+[line:119] - DEBUG: 0 train loss: 1.0387237071990967 acc: 0.40625
+[line:119] - DEBUG: 0 train loss: 1.039713978767395 acc: 0.375
+[line:119] - DEBUG: 0 train loss: 1.024450421333313 acc: 0.46875
+[line:119] - DEBUG: 0 train loss: 1.0339525938034058 acc: 0.4375
+[line:119] - DEBUG: 0 train loss: 0.9630663394927979 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.8938131928443909 acc: 0.6875
+[line:119] - DEBUG: 0 train loss: 0.9596080183982849 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.9739053845405579 acc: 0.5
+[line:119] - DEBUG: 0 train loss: 0.9596818089485168 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.9591726660728455 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 1.0795092582702637 acc: 0.46875
+[line:119] - DEBUG: 0 train loss: 0.980196475982666 acc: 0.5
+[line:119] - DEBUG: 0 train loss: 0.8097582459449768 acc: 0.78125
+[line:119] - DEBUG: 0 train loss: 0.9648935794830322 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.9588412046432495 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.9071763157844543 acc: 0.59375
+[line:119] - DEBUG: 0 train loss: 0.9794706702232361 acc: 0.59375
+[line:119] - DEBUG: 0 train loss: 1.0184038877487183 acc: 0.5625
+[line:119] - DEBUG: 0 train loss: 0.9963928461074829 acc: 0.59375
+[line:119] - DEBUG: 0 train loss: 0.8027404546737671 acc: 0.78125
+[line:119] - DEBUG: 0 train loss: 1.0588313341140747 acc: 0.5
+[line:119] - DEBUG: 0 train loss: 1.0203715562820435 acc: 0.53125
+[line:119] - DEBUG: 0 train loss: 0.9844847917556763 acc: 0.53125
+[line:119] - DEBUG: 0 train loss: 0.9217567443847656 acc: 0.625
+[line:119] - DEBUG: 0 train loss: 0.9854133129119873 acc: 0.53125
+[line:119] - DEBUG: 0 train loss: 0.8752032518386841 acc: 0.65625

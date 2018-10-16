@@ -1,0 +1,145 @@
+[line:56] - DEBUG: criterion: CrossEntropyLoss
+[line:58] - DEBUG: optimizer: RMSprop
+[line:122] - DEBUG: 0 train loss: 2.0765740871429443 acc: 0.15625
+[line:122] - DEBUG: 0 train loss: 2.0339112281799316 acc: 0.21875
+[line:122] - DEBUG: 0 train loss: 1.8604869842529297 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.9191938638687134 acc: 0.34375
+[line:122] - DEBUG: 0 train loss: 1.9938907623291016 acc: 0.25
+[line:122] - DEBUG: 0 train loss: 1.9240268468856812 acc: 0.375
+[line:122] - DEBUG: 0 train loss: 1.9495373964309692 acc: 0.34375
+[line:122] - DEBUG: 0 train loss: 1.8722474575042725 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.9378405809402466 acc: 0.3125
+[line:122] - DEBUG: 0 train loss: 2.0184433460235596 acc: 0.21875
+[line:122] - DEBUG: 0 train loss: 1.9790540933609009 acc: 0.25
+[line:122] - DEBUG: 0 train loss: 2.048053503036499 acc: 0.1875
+[line:122] - DEBUG: 0 train loss: 1.8927404880523682 acc: 0.375
+[line:122] - DEBUG: 0 train loss: 1.9077215194702148 acc: 0.34375
+[line:122] - DEBUG: 0 train loss: 1.8410834074020386 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.7799718379974365 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.810450553894043 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.9009538888931274 acc: 0.34375
+[line:122] - DEBUG: 0 train loss: 1.836625099182129 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.7292507886886597 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.804112434387207 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.8279016017913818 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.8163872957229614 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.644851565361023 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.6866151094436646 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.6894811391830444 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.6830428838729858 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.792237401008606 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.700925588607788 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.815636396408081 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.8756968975067139 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.6570591926574707 acc: 0.625
+[line:122] - DEBUG: 0 train loss: 1.8873802423477173 acc: 0.375
+[line:122] - DEBUG: 0 train loss: 1.7774962186813354 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.6884703636169434 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.7836118936538696 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.875377893447876 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.7269656658172607 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.66581130027771 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.7488105297088623 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.8336822986602783 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.7734873294830322 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.7705488204956055 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.7421296834945679 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.8747332096099854 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.7204641103744507 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.7249058485031128 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.6672184467315674 acc: 0.625
+[line:122] - DEBUG: 0 train loss: 1.7610684633255005 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.6184487342834473 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.8657530546188354 acc: 0.375
+[line:122] - DEBUG: 0 train loss: 1.8248999118804932 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.5560801029205322 acc: 0.71875
+[line:122] - DEBUG: 0 train loss: 1.7371408939361572 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.7054505348205566 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.714096188545227 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.7265480756759644 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.6346138715744019 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.721451997756958 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.8642346858978271 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.790715217590332 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.6684015989303589 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.6881144046783447 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.7444281578063965 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.7651565074920654 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.7668217420578003 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.8617663383483887 acc: 0.40625
+[line:122] - DEBUG: 0 train loss: 1.742546558380127 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.7470961809158325 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.8029507398605347 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.6334667205810547 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.778681755065918 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.8349931240081787 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.7691816091537476 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.6794716119766235 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.6904057264328003 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.7561789751052856 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.772743582725525 acc: 0.5
+[line:122] - DEBUG: 0 train loss: 1.6779557466506958 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.7100024223327637 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.720269799232483 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.6422638893127441 acc: 0.625
+[line:122] - DEBUG: 0 train loss: 1.7318381071090698 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.7359035015106201 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.6213351488113403 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.750424861907959 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.7409740686416626 acc: 0.53125
+[line:122] - DEBUG: 0 train loss: 1.7123597860336304 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.828351378440857 acc: 0.4375
+[line:122] - DEBUG: 0 train loss: 1.8030105829238892 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.6788804531097412 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.648375391960144 acc: 0.625
+[line:122] - DEBUG: 0 train loss: 1.6836191415786743 acc: 0.59375
+[line:122] - DEBUG: 0 train loss: 1.6172311305999756 acc: 0.65625
+[line:122] - DEBUG: 0 train loss: 1.72702956199646 acc: 0.5625
+[line:122] - DEBUG: 0 train loss: 1.8035975694656372 acc: 0.46875
+[line:122] - DEBUG: 0 train loss: 1.709933876991272 acc: 0.5454545454545454
+[line:129] - DEBUG: train Loss: 1.7768 Acc: 0.4945
+[line:417] - DEBUG: Importing BlpImagePlugin
+[line:417] - DEBUG: Importing BmpImagePlugin
+[line:417] - DEBUG: Importing BufrStubImagePlugin
+[line:417] - DEBUG: Importing CurImagePlugin
+[line:417] - DEBUG: Importing DcxImagePlugin
+[line:417] - DEBUG: Importing DdsImagePlugin
+[line:417] - DEBUG: Importing EpsImagePlugin
+[line:417] - DEBUG: Importing FitsStubImagePlugin
+[line:417] - DEBUG: Importing FliImagePlugin
+[line:417] - DEBUG: Importing FpxImagePlugin
+[line:417] - DEBUG: Importing FtexImagePlugin
+[line:417] - DEBUG: Importing GbrImagePlugin
+[line:417] - DEBUG: Importing GifImagePlugin
+[line:417] - DEBUG: Importing GribStubImagePlugin
+[line:417] - DEBUG: Importing Hdf5StubImagePlugin
+[line:417] - DEBUG: Importing IcnsImagePlugin
+[line:417] - DEBUG: Importing IcoImagePlugin
+[line:417] - DEBUG: Importing ImImagePlugin
+[line:417] - DEBUG: Importing ImtImagePlugin
+[line:417] - DEBUG: Importing IptcImagePlugin
+[line:417] - DEBUG: Importing JpegImagePlugin
+[line:417] - DEBUG: Importing Jpeg2KImagePlugin
+[line:417] - DEBUG: Importing McIdasImagePlugin
+[line:417] - DEBUG: Importing MicImagePlugin
+[line:417] - DEBUG: Importing MpegImagePlugin
+[line:417] - DEBUG: Importing MpoImagePlugin
+[line:417] - DEBUG: Importing MspImagePlugin
+[line:417] - DEBUG: Importing PalmImagePlugin
+[line:417] - DEBUG: Importing PcdImagePlugin
+[line:417] - DEBUG: Importing PcxImagePlugin
+[line:417] - DEBUG: Importing PdfImagePlugin
+[line:417] - DEBUG: Importing PixarImagePlugin
+[line:417] - DEBUG: Importing PngImagePlugin
+[line:417] - DEBUG: Importing PpmImagePlugin
+[line:417] - DEBUG: Importing PsdImagePlugin
+[line:417] - DEBUG: Importing SgiImagePlugin
+[line:417] - DEBUG: Importing SpiderImagePlugin
+[line:417] - DEBUG: Importing SunImagePlugin
+[line:417] - DEBUG: Importing TgaImagePlugin
+[line:417] - DEBUG: Importing TiffImagePlugin
+[line:417] - DEBUG: Importing WebPImagePlugin
+[line:417] - DEBUG: Importing WmfImagePlugin
+[line:417] - DEBUG: Importing XbmImagePlugin
+[line:417] - DEBUG: Importing XpmImagePlugin
+[line:417] - DEBUG: Importing XVThumbImagePlugin

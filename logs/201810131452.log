@@ -1,0 +1,123 @@
+[line:80] - DEBUG: criterion: CrossEntropyLoss
+[line:82] - DEBUG: optimizer: RMSprop
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9957613945007324
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9923481941223145
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9889121055603027
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9752132892608643
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9924349784851074
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.99206280708313
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9910855293273926
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9805243015289307
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9565041065216064
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9870314598083496
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9532899856567383
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.963317632675171
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.928527593612671
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9402060508728027
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9425766468048096
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9298481941223145
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9177865982055664
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9364006519317627
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.922069549560547
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.931875228881836
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.967461109161377
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.9276936054229736
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.9774088859558105
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.951946973800659
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.9516210556030273
+[line:143] - INFO: 0: loss: 2.9608888149261476  acc: 0.099375  valid loss: 2.9552263259887694  valid acc: 0.1
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.945631504058838
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.929126262664795
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.928828716278076
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.967697858810425
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.921471118927002
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.946275472640991
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.886101722717285
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9023759365081787
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.8877134323120117
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.87908935546875
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.8728058338165283
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.8322250843048096
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.8805155754089355
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.919438123703003
+[line:99] - INFO: epoch 1
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.892152786254883

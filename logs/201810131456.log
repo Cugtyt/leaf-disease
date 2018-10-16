@@ -1,0 +1,2 @@
+[line:80] - DEBUG: criterion: CrossEntropyLoss
+[line:82] - DEBUG: optimizer: RMSprop

@@ -1,0 +1,67 @@
+[line:80] - DEBUG: criterion: CrossEntropyLoss
+[line:82] - DEBUG: optimizer: RMSprop
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.996307373046875
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.992982864379883
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9732203483581543
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.993175745010376
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.954378128051758
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 3.019141674041748
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9890058040618896
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9459946155548096
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9627888202667236
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9566986560821533
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.949197769165039
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.948756456375122
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.930194854736328
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.914257049560547
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9067957401275635
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.923393726348877
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.923849582672119
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.906545400619507
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9161643981933594
+[line:99] - INFO: epoch 0
+[line:101] - INFO: /255
+[line:111] - DEBUG: loss: 2.9220869541168213
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255
+[line:132] - DEBUG: loss: 2.8982136249542236
+[line:122] - INFO: epoch 0
+[line:124] - INFO: /255

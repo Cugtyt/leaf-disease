@@ -1,0 +1,3 @@
+[line:28] - DEBUG: juzi
+[line:58] - DEBUG: criterion: CrossEntropyLoss
+[line:60] - DEBUG: optimizer: RMSprop

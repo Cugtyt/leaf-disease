@@ -1,0 +1,3 @@
+[line:30] - DEBUG: pingguo
+[line:58] - DEBUG: criterion: CrossEntropyLoss
+[line:60] - DEBUG: optimizer: RMSprop
